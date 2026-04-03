@@ -9,10 +9,17 @@ MyLearning delivers personalised, AI-powered learning experiences through adapti
 
 | | | |
 |:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Interests](screenshots/interests.png) | ![Home](screenshots/home.png) |
-| Login | Interests | Home |
-| ![Quiz](screenshots/quiz.png) | ![Results](screenshots/results.png) | ![Lesson](screenshots/lesson.png) |
-| Quiz | Results | Lesson |
+| <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/8bee87f8-30c0-4308-a03c-0d15a3186214" />  | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/fc6e22c6-37e9-4cc9-bb47-bc242fbbc471" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/4da341c1-3208-4014-8f5e-5fadde72913f" /> |
+| Login| Create Account | Search for any unlisted<br> Educational subject! |
+
+| <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/f3ab3146-3258-4fd1-9f91-d4ffc42402b5" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/debef04b-cda2-46a3-a23a-3d4059038719" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/b9020fab-e0f3-4617-abc0-f3ecb8cbc498" />  |
+| Home Page with Subjects<br>Progress Tab | Progress Tracking | Short Quiz<br> Short 2min Lesson |
+
+| <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/a7861fcd-bcbf-4556-8d63-715af0588de7" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/9a61ef82-d57c-49f7-b056-fe6afcac4a56" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/abb817b9-e4b8-4883-ae58-8caeb24c97d6" />  |
+| Short 2min<br> Trageted Lessons | Short targeted Quizes | Instant results with Explanations | 
+
+| <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/88126d0f-bda0-4bef-8e18-04891edb1939" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/8a80ac00-0526-4df2-b1c7-0770d024c615" /> | |
+|  Progress |  Unique Splash Screen  | Unique App Icon |
 
 ---
 
