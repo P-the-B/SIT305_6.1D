@@ -5,19 +5,6 @@ MyLearning delivers personalised, AI-powered learning experiences through adapti
 
 ---
 
-## Screenshots
-
-| | | |
-|---|---|---|
-| <img src="screenshots/01_login.png" width="250" height="600"> | <img src="screenshots/02_create_account.png" width="250" height="600"> | <img src="screenshots/03_PW_Reset.png" width="250" height="600"> |
-| **Login** | **Create Account** | **Pw Reset** |
-| <img src="screenshots/03a_Subject_Select.png" width="250" height="600"> | <img src="screenshots/04_home.png" width="250" height="600"> | <img src="screenshots/05_progress.png" width="250" height="600"> |
-| **Subject Select** | **Home** | **Progress** |
-| <img src="screenshots/06_quiz.png" width="250" height="600"> | <img src="screenshots/07_Initial_Short_lesson.png" width="250" height="600"> | <img src="screenshots/07a_Targeted_Short_Lessons.png" width="250" height="600"> |
-| **Quiz** | **Initial Short Lesson** | **Targeted Short Lessons** |
-| <img src="screenshots/09_results.png" width="250" height="600"> | <img src="screenshots/10_splash.png" width="250" height="600"> | <img src="screenshots/11_app_icon.png" width="250" height="600"> |
-| **Results** | **Splash** | **App Icon** |
-
 
 ## Features
 
@@ -30,6 +17,21 @@ MyLearning delivers personalised, AI-powered learning experiences through adapti
 - **Short topic lesson** — If you have starred questions, they load as expandable cards with AI explanations. If not, a 5-bullet topic summary is auto-generated on entry.
 - **Progress tracking** — Per-topic accuracy and attempt count. History persists even when topics are removed from your interests. Tap any topic to jump straight into a quiz or lesson. Removed topics are re-added automatically (subject to 10 topic limit).
 - **Logout** — Clears session and returns to login with back stack wiped.
+
+---
+
+## Screenshots
+
+| | | |
+|---|---|---|
+| <img src="screenshots/01_login.png" width="250" height="600"> | <img src="screenshots/02_create_account.png" width="250" height="600"> | <img src="screenshots/03_PW_Reset.png" width="250" height="600"> |
+| **Login** | **Create Account** | **Pw Reset** |
+| <img src="screenshots/03a_Subject_Select.png" width="250" height="600"> | <img src="screenshots/04_home.png" width="250" height="600"> | <img src="screenshots/05_progress.png" width="250" height="600"> |
+| **Subject Select** | **Home** | **Progress** |
+| <img src="screenshots/06_quiz.png" width="250" height="600"> | <img src="screenshots/07_Initial_Short_lesson.png" width="250" height="600"> | <img src="screenshots/07a_Targeted_Short_Lessons.png" width="250" height="600"> |
+| **Quiz** | **Initial Short Lesson** | **Targeted Short Lessons** |
+| <img src="screenshots/09_results.png" width="250" height="600"> | <img src="screenshots/10_splash.png" width="250" height="600"> | <img src="screenshots/11_app_icon.png" width="250" height="600"> |
+| **Results** | **Splash** | **App Icon** |
 
 ---
 
